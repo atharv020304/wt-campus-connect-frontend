@@ -1,4 +1,4 @@
-import Posts from "./Posts";
+import Posts from "./Posts.js";
 
 const Home = () => {
   return <Posts />;

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Comment from "./Comment";
+import Comment from "./Comment.js";
 import { useState } from "react";
 import "./_components.css";
 
